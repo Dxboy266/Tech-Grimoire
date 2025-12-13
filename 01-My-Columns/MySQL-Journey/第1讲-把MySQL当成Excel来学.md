@@ -72,7 +72,7 @@ Excel最怕的就是误操作:
 
 理解MySQL其实很简单,你就把它想象成Excel的升级版就行。我给你对照着看:
 
-![excel类比db](images/excel类比db.png) 
+![excel类比db](images/01/excel类比db.png) 
 
 ### 一张表看懂对应关系
 
@@ -155,7 +155,7 @@ Excel用鼠标点点点就行,MySQL得用命令。这个命令叫SQL(Structured 
 
 SQL分四大类,我给你编了个口诀:**"定结构、操数据、控权限、管事务"**。
 
-![sql口诀](images/sql口诀.png) 
+![sql口诀](images/01/sql口诀.png) 
 
 
 ### DDL:定结构
