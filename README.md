@@ -18,7 +18,7 @@
 ---
 
 ### [01-My-Columns 原创专栏](./01-My-Columns/)
-> *我亲自撰写的系统性技术专栏，是本法典的核心资产。*
+> *系统性技术专栏，是本法典的核心资产。*
 
 #### [MySQL手札：从Excel到生产实战](./01-My-Columns/MySQL-Journey/)
 - [MySQL专栏大纲](./01-My-Columns/MySQL-Journey/mysql专栏.md)
@@ -33,9 +33,14 @@
 ### [02-Deep-Magic 深度原理](./02-Deep-Magic/)
 > *探究技术底层的深奥魔法。知其然，更知其所以然。*
 
+#### Java Core
+- [Java 面试八股精华](./02-Deep-Magic/Java-Core/Java-Interview-Essentials.md)
+
 #### Database Core
 - [MySQL 核心知识体系汇总](./02-Deep-Magic/Database-Core/MySQL-Core-System.md)
 - [MySQL 核心知识点深度解析](./02-Deep-Magic/Database-Core/MySQL-Deep-Dive.md)
+- **Redis**:
+  - [Redis 知识点总结](./02-Deep-Magic/Database-Core/Redis/Redis知识点总结.md)
 - **ElasticSearch**:
   - [ES 核心知识实战总结](./02-Deep-Magic/Database-Core/ElasticSearch/Elasticsearch核心知识实战总结.md)
   - [ES 核心知识速查手册](./02-Deep-Magic/Database-Core/ElasticSearch/Elasticsearch核心知识速查手册.md)
@@ -43,6 +48,10 @@
 #### System Architecture
 - [高可用架构设计](./02-Deep-Magic/System-Architecture/High-Availability-Design.md)
 - [分布式锁设计的思考：从入门到“弃用”](./02-Deep-Magic/System-Architecture/Distributed-Lock.md)
+
+#### MQ (Message Queue)
+- **Kafka**:
+  - [Kafka 核心知识点与大厂面试题全解](./02-Deep-Magic/MQ/Kafka/Kafka核心知识点与大厂面试题全解.md)
 
 #### Java Concurrency
 - [Java 多线程快速入门](./02-Deep-Magic/Java-Concurrency/Java多线程快速入门.md)
