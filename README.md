@@ -1,4 +1,4 @@
-# Tech-Grimoire
+﻿# Tech-Grimoire
 
 > *"Any sufficiently advanced technology is indistinguishable from magic."*  
 > — Arthur C. Clarke
@@ -47,7 +47,11 @@
 
 #### System Architecture
 - [高可用架构设计](./02-Deep-Magic/System-Architecture/High-Availability-Design.md)
-- [分布式锁设计的思考：从入门到“弃用”](./02-Deep-Magic/System-Architecture/Distributed-Lock.md)
+- [分布式锁设计的思考：从入门到"弃用"](./02-Deep-Magic/System-Architecture/Distributed-Lock.md)
+- [DDD 领域驱动设计知识手册](./02-Deep-Magic/System-Architecture/DDD领域驱动设计知识手册.md)
+- **幂等设计**:
+  - [幂等理论框架](./02-Deep-Magic/System-Architecture/幂等理论框架.md)
+  - [幂等实战方案](./02-Deep-Magic/System-Architecture/幂等实战方案.md)
 
 #### MQ (Message Queue)
 - **Kafka**:
